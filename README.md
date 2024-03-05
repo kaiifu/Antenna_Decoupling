@@ -5,3 +5,5 @@
 |[2]|
 |[3]|
 |[4]|
+# Reference
+[1] J. Jiang, and Q.-X. Chu, “Broadband decoupling for antenna arrays using multiple decoupling nulls,” IEEE Transactions on Antennas and Propagation, vol. 71, no. 11, pp. 8616-8627, 2023.
